@@ -1,0 +1,5 @@
+﻿  MultiProgLab1Task2.cpp
+D:\3\MultProg\MultiProgLab1Task2\MultiProgLab1Task2\MultiProgLab1Task2.cpp(74,12): warning C4018: '<': signed/unsigned mismatch
+D:\3\MultProg\MultiProgLab1Task2\MultiProgLab1Task2\MultiProgLab1Task2.cpp(77,13): warning C4018: '<': signed/unsigned mismatch
+D:\3\MultProg\MultiProgLab1Task2\MultiProgLab1Task2\MultiProgLab1Task2.cpp(97,17): warning C4018: '<': signed/unsigned mismatch
+  MultiProgLab1Task2.vcxproj -> D:\3\MultProg\MultiProgLab1Task2\Debug\MultiProgLab1Task2.exe
